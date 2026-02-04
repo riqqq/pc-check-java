@@ -28,7 +28,7 @@ A Windows console application that verifies system compatibility for DMA hardwar
 ### Option 2: Build from Source
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/pc-check-java.git
+git clone https://github.com/riqqq/pc-check-java.git
 cd pc-check-java
 
 # Build distribution (requires JDK 17+)
