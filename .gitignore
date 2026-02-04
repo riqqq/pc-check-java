@@ -1,0 +1,32 @@
+# Compiled class files
+bin/
+*.class
+
+# Build artifacts
+dist/
+build/
+
+# Gradle
+.gradle/
+gradle-*.zip
+gradle_temp/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# JNA libs (downloaded at runtime)
+libs/
+
+# Portable JDK (too large for git)
+jdk-*/
+
+# Logs
+*.log
+*.txt
+
+# OS
+.DS_Store
+Thumbs.db
